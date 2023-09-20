@@ -48,5 +48,4 @@
 </div>
 
 ###
-![Snake animation](https://github.com/zoltancaputo/zoltancaputo/blob/output/github-contribution-grid-snake.svg)
 
